@@ -38,7 +38,7 @@
 - [Free Qr Code Generators Documents](https://qrcode.aivncorp.com/en/202507/journey-free-qr-code-generators-documents.html)
 - [Qr Codes Google Maps](https://qrcode.aivncorp.com/en/202507/journey-qr-codes-google-maps.html)
 - [Qr Code Authentication](https://qrcode.aivncorp.com/en/202507/journey-secure-qr-code-authentication.html)
-
+- [Qr Code Login](https://qrcode.aivncorp.com/en/202507/journey-secure-qr-code-login.html)
 
 ## Contact & Contribution
 
