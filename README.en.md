@@ -30,8 +30,8 @@
 
 ## Demo & Video Guide
 
-- [Live Demo](https://qrcode.aivncorp.com)
-- [Video Tutorial](https://www.youtube.com/embed/QNwBPAG74K4)
+- [Live Demo Create QR Code](https://qrcode.aivncorp.com)
+- [Video Tutorial Generate QR CODE](https://www.youtube.com/embed/QNwBPAG74K4)
 ## Blog
 
 - [Exploring Qr Code Payments](https://qrcode.aivncorp.com/en/202507/exploring-qr-code-payments.html)
