@@ -32,12 +32,18 @@
 
 - [Live Demo](https://qrcode.aivncorp.com)
 - [Video Tutorial](https://www.youtube.com/embed/QNwBPAG74K4)
+## Blog
+
+- [Exploring Qr Code Payments](https://qrcode.aivncorp.com/en/202507/exploring-qr-code-payments.html)
+- [Free Qr Code Generators Documents](https://qrcode.aivncorp.com/en/202507/journey-free-qr-code-generators-documents.html)
+- [Qr Codes Google Maps](https://qrcode.aivncorp.com/en/202507/journey-qr-codes-google-maps.html)
+- [Qr Code Authentication](https://qrcode.aivncorp.com/en/202507/journey-secure-qr-code-authentication.html)
+
 
 ## Contact & Contribution
 
 - For feedback or bug reports, please create an issue on [GitHub](#).
 - Project by [AIVN Corp](https://aivncorp.com).
-
 ---
 
 **QR Code Generator – Free, simple, and powerful tool for individuals and businesses.**
