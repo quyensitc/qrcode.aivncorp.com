@@ -24,9 +24,9 @@
 ## Ứng dụng của mã QR
 
 - Quản lý vận đơn, tracking logistics.
-- Chia sẻ thông tin sản phẩm, sự kiện, liên hệ nhanh.
-- Tích hợp lên website, poster, card visit, tài liệu marketing.
-- Tăng tương tác khách hàng, kết nối offline & online hiệu quả.
+- Chia sẻ [thông tin sản phẩm](https://qrcode.aivncorp.com/vi/202507/cach-tao-qr-code-thay-doi-thong-tin-san-pham.html), [sự kiện](https://qrcode.aivncorp.com/vi/202507/cach-tao-ma-qr-code-tich-diem-giam-gia.html), [liên hệ nhanh](https://qrcode.aivncorp.com/vi/202507/ma-qr-code-trong-giao-duc-ket-noi-lop-hoc-hien-dai.html).
+- Tích hợp lên website, poster, card visit, [tài liệu marketing](https://qrcode.aivncorp.com/vi/202507/ma-qr-code-thong-tin-san-pham.html).
+- Tăng tương tác [khách hàng](https://qrcode.aivncorp.com/vi/202507/tao-ma-qr-code-ket-noi-mang-xa-hoi.html), kết nối offline & online hiệu quả.
 
 ## Demo và video hướng dẫn
 
