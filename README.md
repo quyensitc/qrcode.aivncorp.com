@@ -17,21 +17,21 @@
 ## Hướng dẫn sử dụng
 
 1. Truy cập: [https://qrcode.aivncorp.com](https://qrcode.aivncorp.com)
-2. Chọn loại dữ liệu bạn muốn tạo mã QR (Website, Text, Email, SMS, WiFi, vCard,...).
+2. Chọn loại dữ liệu bạn muốn ơtạo mã QR code](https://qrcode.aivncorp.com) (Website, Text, Email, SMS, WiFi, vCard,...).
 3. Nhập nội dung cần mã hóa và tùy chỉnh theo ý muốn (màu sắc, logo, kích thước).
 4. Bấm **"Generate QR"** để xem trước và tải mã QR về thiết bị.
 
 ## Ứng dụng của mã QR
 
 - Quản lý vận đơn, tracking logistics.
-- Chia sẻ [thông tin sản phẩm](https://qrcode.aivncorp.com/vi/202507/cach-tao-qr-code-thay-doi-thong-tin-san-pham.html), [sự kiện](https://qrcode.aivncorp.com/vi/202507/cach-tao-ma-qr-code-tich-diem-giam-gia.html), [liên hệ nhanh](https://qrcode.aivncorp.com/vi/202507/ma-qr-code-trong-giao-duc-ket-noi-lop-hoc-hien-dai.html).
-- Tích hợp lên website, poster, card visit, [tài liệu marketing](https://qrcode.aivncorp.com/vi/202507/ma-qr-code-thong-tin-san-pham.html).
-- Tăng tương tác [khách hàng](https://qrcode.aivncorp.com/vi/202507/tao-ma-qr-code-ket-noi-mang-xa-hoi.html), kết nối offline & online hiệu quả.
+- Chia sẻ [Mã QRCODE thông tin sản phẩm](https://qrcode.aivncorp.com/vi/202507/cach-tao-qr-code-thay-doi-thong-tin-san-pham.html), [qr code sự kiện](https://qrcode.aivncorp.com/vi/202507/cach-tao-ma-qr-code-tich-diem-giam-gia.html), [QRCODE liên hệ nhanh](https://qrcode.aivncorp.com/vi/202507/ma-qr-code-trong-giao-duc-ket-noi-lop-hoc-hien-dai.html).
+- Tích hợp lên website, poster, card visit, [QR CODE tài liệu marketing](https://qrcode.aivncorp.com/vi/202507/ma-qr-code-thong-tin-san-pham.html).
+- Tăng tương tác [khách hàng qr code kết nối](https://qrcode.aivncorp.com/vi/202507/tao-ma-qr-code-ket-noi-mang-xa-hoi.html), kết nối offline & online hiệu quả.
 
 ## Demo và video hướng dẫn
 
-- [Demo trực tiếp](https://qrcode.aivncorp.com)
-- [Video hướng dẫn sử dụng công cụ tạo mã QR](https://www.youtube.com/embed/QNwBPAG74K4)
+- [Demo Tạo mã QR CODE trực tiếp](https://qrcode.aivncorp.com)
+- [Video hướng dẫn sử dụng công cụ tạo mã QR CODE](https://www.youtube.com/embed/QNwBPAG74K4)
 
 ## Liên hệ & đóng góp
 
